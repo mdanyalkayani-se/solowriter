@@ -10,8 +10,6 @@ A minimalist, single-author blogging platform focused on clean writing and authe
 
 I built **SoloWriter** to explore the idea of distraction-free digital publishing. The goal was to create a personal writing tool where the focus remains on content, not clutter.
 
-This project helped me think critically about simplicity in UI, Firebase integration, and content-focused user flows.
-
 ---
 
 ## ✨ Key Features
@@ -24,14 +22,6 @@ This project helped me think critically about simplicity in UI, Firebase integra
 * 🌗 **Dark/Light Mode** – For better reading comfort
 * ⚡ **Real-Time Sync** – Firestore-based updates
 * 📱 **Responsive Design** – Works well on all devices
-
----
-
-## 🛠️ Tech Stack
-
-* **HTML**, **CSS**, **Vanilla JavaScript**
-* **Firebase Authentication** + **Cloud Firestore**
-* **Netlify** (Static Hosting)
 
 ---
 
@@ -54,6 +44,20 @@ This project helped me think critically about simplicity in UI, Firebase integra
 
 ---
 
+## 📄 License & Usage
+
+This project is part of a **personal portfolio showcase**.
+It is **not open source**, and the **source code is private**.
+
+The project is available for **inspiration and demonstration purposes only**.
+Please do **not copy, reuse, or redistribute** any part of the implementation without permission.
+
+> All rights reserved unless explicitly granted.
+
+If you're interested in **collaborating or building something similar**, feel free to reach out.
+
+---
+
 ## 📬 Contact
 
 Feel free to connect:
@@ -63,12 +67,4 @@ Feel free to connect:
 
 ---
 
-## 🛡️ License
-
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
-This project is not open-sourced for now but may serve as inspiration or reference.
-
----
-
 > *“I wanted a space that felt mine — simple, quiet, intentional.”*
-
